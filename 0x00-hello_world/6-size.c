@@ -16,4 +16,5 @@ int main(void)
 	printf("size of the existing long int : %lu bytes\n",(unsigned long)sizeof (c));
 	printf("size of the existing long long  int : %lu bytes\n",(unsigned long)sizeof (d));
 	printf("size of the existing float : %lu bytes\n",(unsigned long)sizeof (f));
+	return(0);
 }
